@@ -17,6 +17,6 @@
 2. [ Bài thực hành số 1 ]()<br>
 3. [ Bài thực hành số 2 ]()<br>
 4. [ Bài thực hành số 3 ]()<br>
-5. [ Dự án hoàn chỉnh ]()<br> -->
+5. [ Dự án hoàn chỉnh ]()<br>
 
 
