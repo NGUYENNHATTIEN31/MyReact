@@ -1,2 +1,2 @@
-# MyReact
-Bài tập môn React
+# Bài tập môn React
+
