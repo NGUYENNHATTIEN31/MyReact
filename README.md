@@ -13,11 +13,10 @@
 11. [ Câu 17 arrow function ](https://codepen.io/NGUYENNHATTIEN31/pen/zYaWmoY)<br>
 12.[ Câu 17 bind ](https://codepen.io/NGUYENNHATTIEN31/pen/JjZLmOR)
 ## Thực hành
-<br>
 1. [Bài thực hành props và state](https://codepen.io/NGUYENNHATTIEN31/pen/yLEKRdy?editors=0110)<br>
-2. [ Bài thực hành số 1 ]()<br>
+<!-- 2. [ Bài thực hành số 1 ]()<br>
 3. [ Bài thực hành số 2 ]()<br>
 4. [ Bài thực hành số 3 ]()<br>
-5. [ Dự án hoàn chỉnh ]()<br>
+5. [ Dự án hoàn chỉnh ]()<br> -->
 
 
