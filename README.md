@@ -11,7 +11,7 @@
 7. [ Câu 16 bind ](https://codepen.io/NGUYENNHATTIEN31/pen/WNyZXpd)<br>
 8. [ Câu 16 arrow function ](https://codepen.io/NGUYENNHATTIEN31/pen/GRGOPzG)<br>
 9. [ Câu 17 arrow function ](https://codepen.io/NGUYENNHATTIEN31/pen/zYaWmoY)<br>
-10.[ Câu 17 bind ](https://codepen.io/NGUYENNHATTIEN31/pen/JjZLmOR)<br>
+10.[ Câu 17 bind ](https://codepen.io/NGUYENNHATTIEN31/pen/JjZLmOR)
 ## Thực hành
 <br>
 1. [ Bài thực hành props và state ]()<br>
