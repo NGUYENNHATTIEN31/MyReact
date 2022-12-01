@@ -14,7 +14,7 @@
 12.[ Câu 17 bind ](https://codepen.io/NGUYENNHATTIEN31/pen/JjZLmOR)
 ## Thực hành
 <br>
-1. [ Bài thực hành props và state ](https://codepen.io/NGUYENNHATTIEN31/pen/yLEKRdy?editors=0110)<br>
+1. [ Bài thực hành props và state ]()<br>
 2. [ Bài thực hành số 1 ]()<br>
 3. [ Bài thực hành số 2 ]()<br>
 4. [ Bài thực hành số 3 ]()<br>
