@@ -3,7 +3,7 @@
 <br>
 1.[Câu 9](https://codepen.io/NGUYENNHATTIEN31/pen/rNKadBO)
 <br>
-<!-- 2. [Câu 10](https://codepen.io/NGUYENNHATTIEN31/pen/MWXeoVq?editors=0010)<br>
+2. [Câu 10](https://codepen.io/NGUYENNHATTIEN31/pen/MWXeoVq?editors=0010)<br>
 3. [Câu 11](https://codepen.io/NGUYENNHATTIEN31/pen/poKbrRY?editors=0010)<br>
 4. [Câu 12](https://codepen.io/NGUYENNHATTIEN31/pen/poKbrRY?editors=0010)<br>
 5. [Câu 13](https://codepen.io/NGUYENNHATTIEN31/pen/xxzgooJ)<br>
@@ -13,7 +13,7 @@
 7. [Câu 16 bind](https://codepen.io/NGUYENNHATTIEN31/pen/WNyZXpd)<br>
 8. [Câu 16 arrow function](https://codepen.io/NGUYENNHATTIEN31/pen/GRGOPzG)<br>
 9. [Câu 17 arrow function](https://codepen.io/NGUYENNHATTIEN31/pen/zYaWmoY)<br>
-10.[Câu 17 bind](https://codepen.io/NGUYENNHATTIEN31/pen/JjZLmOR)<br> -->
+10.[Câu 17 bind](https://codepen.io/NGUYENNHATTIEN31/pen/JjZLmOR)<br>
 ## Thực hành
 <br>
 1. [Bài thực hành props và state]()<br>
