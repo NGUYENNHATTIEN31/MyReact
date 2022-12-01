@@ -1,7 +1,8 @@
 # Bài tập môn React
 ## Lý Thuyết
 <br>
-1.[Câu 9](https://codepen.io/NGUYENNHATTIEN31/pen/rNKadBO)<br>
+1.[Câu 9](https://codepen.io/NGUYENNHATTIEN31/pen/rNKadBO)
+<br>
 2.[Câu 10](https://codepen.io/NGUYENNHATTIEN31/pen/MWXeoVq?editors=0010)<br>
 3.[Câu 11](https://codepen.io/NGUYENNHATTIEN31/pen/poKbrRY?editors=0010)<br>
 4.[Câu 12](https://codepen.io/NGUYENNHATTIEN31/pen/poKbrRY?editors=0010)<br>
