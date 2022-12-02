@@ -9,8 +9,8 @@
 7. [ Câu 15 bind ](https://codepen.io/NGUYENNHATTIEN31/pen/rNKjXVJ)<br>
 8. [ Câu 15 arrow function ](https://codepen.io/NGUYENNHATTIEN31/pen/WNyZXpd)<br>
 9. [ Câu 16 bind ](https://codepen.io/NGUYENNHATTIEN31/pen/WNyZXpd)<br>
-10. [ Câu 16 arrow function ](https://codepen.io/NGUYENNHATTIEN31/pen/GRGOPzG)<br>
-11. [ Câu 17 arrow function ](https://codepen.io/NGUYENNHATTIEN31/pen/zYaWmoY)<br>
+10.[ Câu 16 arrow function ](https://codepen.io/NGUYENNHATTIEN31/pen/GRGOPzG)<br>
+11.[ Câu 17 arrow function ](https://codepen.io/NGUYENNHATTIEN31/pen/zYaWmoY)<br>
 12.[ Câu 17 bind ](https://codepen.io/NGUYENNHATTIEN31/pen/JjZLmOR)<br>
 13.[ Câu 18 ](https://codepen.io/NGUYENNHATTIEN31/pen/vYrVaYO)<br>
 14.[ Câu 19](https://codepen.io/NGUYENNHATTIEN31/pen/yLERxZe?editors=0010)<br>
