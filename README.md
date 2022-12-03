@@ -17,10 +17,11 @@
 15.[ Câu 20 ](https://codepen.io/NGUYENNHATTIEN31/pen/GRGYXbz?editors=0010)<br>
 16.[ Câu 21 ](https://codepen.io/NGUYENNHATTIEN31/pen/YzvJOmO?editors=0010)
 ## Thực hành
-1. [Bài thực hành props và state](https://codepen.io/NGUYENNHATTIEN31/pen/yLEKRdy?editors=0110)<br>
-2. [ Bài thực hành số 1 ]()<br>
-3. [ Bài thực hành số 2 ]()<br>
-4. [ Bài thực hành số 3 ]()<br>
-5. [ Dự án hoàn chỉnh ]()<br>
+1. [Bài thực hành làm quen React và tạo component](https://codesandbox.io/s/baith1-lamquenvsreact-8osyh6);
+2. [Bài thực hành props và state](https://codepen.io/NGUYENNHATTIEN31/pen/yLEKRdy?editors=0110)<br>
+3. [ Bài thực hành số 1 ]()<br>
+4. [ Bài thực hành số 2 ]()<br>
+5. [ Bài thực hành số 3 ]()<br>
+6. [ Dự án hoàn chỉnh ]()<br>
 
 
