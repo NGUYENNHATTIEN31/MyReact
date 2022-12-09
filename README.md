@@ -22,6 +22,6 @@
 3. [ Bài thực hành số 1 ](https://codesandbox.io/s/bai-thuc-hanh-so-1-w78nku)<br>
 4. [ Bài thực hành số 2 ](https://codesandbox.io/s/bai-thuc-hanh-so-2-g8uv7y?file=/src/index.js)<br>
 5. [ Bài thực hành số 3 ](https://codesandbox.io/s/bai-thuc-hanh-so-3-oipfku)<br>
-6. [ Dự án hoàn chỉnh ]()<br>
+6. [ Dự án hoàn chỉnh ](https://codesandbox.io/s/du-an-hoan-chinh-vvruek)<br>
 
 
